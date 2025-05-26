@@ -1,0 +1,107 @@
+                                                =========User Manual – Inventory & Sales Tracking CLI App=========
+
+Welcome! This guide will walk you through how to use the Inventory & Sales Tracking System through its Command-Line Interface (CLI). 
+The system allows you to manage products, customers, sales, reports, and data backups — all from one dashboard.
+
+## Starting the Application:
+        -> open the terminal and run
+            >  python filepath
+        
+            You will see this menu
+            === Inventory Management CLI ===
+            1. Manage Products
+            2. Manage Customers
+            3. Manage Sales
+            4. Billing and Reporting
+            5. CSV import/export
+            0. Exit
+
+            use the numbers to navigate through this system
+
+    1.Manage Products:
+        You can access this via 1 option
+        Product Menu Options:
+            1.Add Product – Add a new product with name, category, stock, and price.
+
+            2.View Products – View all products (paged view with next/previous).
+
+            3.Update Product details – Modify product name, category, quantity, or price.
+
+            4.Delete Product – Permanently remove a product.
+
+            5.Search Product – Find products by name or category.
+
+            0.Back – Return to the main menu.
+
+    2. Manage Customers:
+        You can access this via 2 option
+        Customer Menu Options:
+            1.Add Customer – Enter name and phone number (10 digits).
+
+            2.View Customers – Paginated view of all customers.
+
+            3.Update Customer – Update name or phone number.
+
+            4.Delete Customer – Remove a customer.
+
+            5.Search Customer – Search by name, ID, or phone.
+
+            0.Back – Return to the main menu.
+
+    3. Manage Sales:
+        You can access this via 3 option
+        Sales Menu Options:
+            1.Record a Sale – Input Customer ID, Product ID, and Quantity. System calculates totals and updates stock.
+
+            2.View Sales – Lists all sales records.
+
+            3.Search Sales – Filter by Customer ID or Product ID.
+
+            4.Low Stock Alerts – See which products are running low (quantity < 5).
+
+            0.Back – Return to the main menu. 
+
+    4. Billing & Reporting:
+        You can access this via 4 option
+        Billing_reports Menu Options:
+            1.Daily Sales Summary – View total sales by day.
+
+            2.Monthly Sales Summary – View total sales grouped by month.
+
+            3.to get details of a sale based on sale_id
+
+            0.Back – Return to the main menu.
+    
+    5. CSV Import/Export:
+        You can access this via 5 option
+        CSV Menu Options:
+            1.Export Products – Save all products to a CSV file.
+
+            2.Import Products – Load products from a CSV file.
+
+            3.Export Customers – Save customer data to CSV.
+
+            4.Import Customers – Load customers from a CSV file.
+
+            5.Export Sales – Export sales data.
+
+            0.Back – Return to the main menu.           
+
+
+## Invoices:
+    Invoices are auto-generated for every sale and saved as .txt files.
+
+
+## How to give Input  & Error Handling:
+    -> Enter only numbers when asked to "Choose an option".
+
+    -> If an ID is invalid (like a product not found), the system will prompt you.
+
+    -> Leave fields blank to keep current values during updates.
+
+    -> CSV filenames must be typed with extension (e.g., products.csv.)
+
+## Exiting the App:
+    Choose option 0 from the main menu to safely exit the system.
+
+

@@ -1,0 +1,7 @@
+Invoice Date: 2025-05-20 16:01:10
+Customer ID: 8
+Product ID: 9
+Quantity: 7
+Subtotal: 107.24
+Tax (5%): 5.36
+Grand Total: 112.60

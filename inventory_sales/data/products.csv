@@ -1,0 +1,405 @@
+product_id,Name,category,price,quantity
+PROD0001,Washing Machine,Home Appliances,148.22,37
+PROD0002,Jeans,Clothing,126.39,25
+PROD0003,Yoga Mat,Sports,1259.76,40
+PROD0004,Chair,Furniture,956.31,52
+PROD0005,Remote Car,Toys,325.13,65
+PROD0006,Sweater,Clothing,518.05,77
+PROD0007,Bookshelf,Furniture,1362.68,81
+PROD0008,Laptop,Electronics,933.93,63
+PROD0009,Board Game,Toys,1301.66,72
+PROD0010,Air Conditioner,Home Appliances,1215.20,77
+PROD0011,Refrigerator,Home Appliances,862.46,-15
+PROD0012,Air Conditioner,Home Appliances,295.87,51
+PROD0013,Doll,Toys,1414.20,96
+PROD0014,Air Conditioner,Home Appliances,811.06,35
+PROD0015,T-shirt,Clothing,433.91,74
+PROD0016,Vacuum Cleaner,Home Appliances,351.62,72
+PROD0017,Air Conditioner,Home Appliances,1193.94,73
+PROD0018,Yoga Mat,Sports,668.48,13
+PROD0019,Perfume,Beauty,1224.46,29
+PROD0020,Basketball,Sports,651.63,87
+PROD0021,Perfume,Beauty,190.88,11
+PROD0022,Air Conditioner,Home Appliances,1154.38,52
+PROD0023,Smartphone,Electronics,445.89,89
+PROD0024,Air Conditioner,Home Appliances,1405.54,25
+PROD0025,Shorts,Clothing,961.48,53
+PROD0026,Sweater,Clothing,1309.98,50
+PROD0027,Chair,Furniture,1429.65,49
+PROD0028,Chair,Furniture,1301.98,98
+PROD0029,Bed Frame,Furniture,480.62,7
+PROD0030,Chair,Furniture,985.34,45
+PROD0031,Heels,Footwear,879.78,1
+PROD0032,Shorts,Clothing,514.18,72
+PROD0033,Shampoo,Beauty,872.21,74
+PROD0034,Loafers,Footwear,46.62,59
+PROD0035,Sneakers,Footwear,1031.30,1
+PROD0036,Board Game,Toys,1129.76,57
+PROD0037,Football,Sports,375.72,82
+PROD0038,Loafers,Footwear,843.56,43
+PROD0039,Puzzle,Toys,455.80,-16
+PROD0040,Football,Sports,1444.01,37
+PROD0041,Air Conditioner,Home Appliances,283.68,83
+PROD0042,Jacket,Clothing,1338.22,60
+PROD0043,T-shirt,Clothing,1398.90,57
+PROD0044,Jacket,Clothing,495.95,50
+PROD0045,Shampoo,Beauty,187.85,96
+PROD0046,Bluetooth Speaker,Electronics,790.41,41
+PROD0047,Tennis Racket,Sports,493.14,11
+PROD0048,Microwave,Home Appliances,92.12,64
+PROD0049,Shorts,Clothing,1066.04,76
+PROD0050,Bluetooth Speaker,Electronics,1229.62,45
+PROD0051,Microwave,Home Appliances,1120.07,82
+PROD0052,Lipstick,Beauty,80.43,-20
+PROD0053,Tennis Racket,Sports,1288.71,49
+PROD0054,Board Game,Toys,360.67,73
+PROD0055,Puzzle,Toys,812.11,93
+PROD0056,Smartphone,Electronics,1242.71,-6
+PROD0057,Sneakers,Footwear,114.67,83
+PROD0058,Heels,Footwear,845.50,65
+PROD0059,Refrigerator,Home Appliances,747.19,-18
+PROD0060,Shampoo,Beauty,1137.88,91
+PROD0061,Camera,Electronics,1453.15,79
+PROD0062,Shorts,Clothing,1471.24,77
+PROD0063,Shampoo,Beauty,696.92,36
+PROD0064,Perfume,Beauty,1351.76,55
+PROD0065,Yoga Mat,Sports,550.52,-38
+PROD0066,Bookshelf,Furniture,976.54,93
+PROD0067,Doll,Toys,1371.43,-7
+PROD0068,Washing Machine,Home Appliances,482.61,2
+PROD0069,Chair,Furniture,48.58,11
+PROD0070,Smartphone,Electronics,37.92,51
+PROD0071,Football,Sports,851.98,46
+PROD0072,Boots,Footwear,1112.65,26
+PROD0073,Refrigerator,Home Appliances,663.20,95
+PROD0074,Sweater,Clothing,1444.17,14
+PROD0075,Washing Machine,Home Appliances,1324.45,48
+PROD0076,Sweater,Clothing,100.46,61
+PROD0077,Perfume,Beauty,1121.90,63
+PROD0078,Dining Table,Furniture,252.30,0
+PROD0079,Sofa,Furniture,1210.93,61
+PROD0080,Foundation,Beauty,217.03,-6
+PROD0081,Smartphone,Electronics,912.89,-14
+PROD0082,Doll,Toys,1164.27,47
+PROD0083,Sofa,Furniture,158.14,20
+PROD0084,Treadmill,Sports,1054.79,22
+PROD0085,Heels,Footwear,910.05,13
+PROD0086,Dining Table,Furniture,677.64,26
+PROD0087,Perfume,Beauty,223.95,60
+PROD0088,Sweater,Clothing,1498.70,43
+PROD0089,Sandals,Footwear,1345.19,59
+PROD0090,Smartwatch,Electronics,185.47,36
+PROD0091,Treadmill,Sports,482.32,65
+PROD0092,Basketball,Sports,448.11,47
+PROD0093,Camera,Electronics,532.35,4
+PROD0094,Jeans,Clothing,450.09,94
+PROD0095,Bluetooth Speaker,Electronics,67.49,63
+PROD0096,Jeans,Clothing,148.64,-25
+PROD0097,Yoga Mat,Sports,1121.23,63
+PROD0098,Air Conditioner,Home Appliances,77.32,31
+PROD0099,Shampoo,Beauty,866.31,-11
+PROD0100,Chair,Furniture,621.51,8
+PROD0101,Action Figure,Toys,1104.96,85
+PROD0102,Chair,Furniture,793.71,31
+PROD0103,Loafers,Footwear,897.01,1
+PROD0104,Bookshelf,Furniture,780.55,30
+PROD0105,Sandals,Footwear,1363.60,91
+PROD0106,Sneakers,Footwear,114.98,5
+PROD0107,Washing Machine,Home Appliances,1110.33,88
+PROD0108,Jeans,Clothing,1254.27,59
+PROD0109,Vacuum Cleaner,Home Appliances,1462.58,25
+PROD0110,Loafers,Footwear,132.71,35
+PROD0111,Boots,Footwear,411.26,97
+PROD0112,Jacket,Clothing,27.18,38
+PROD0113,Chair,Furniture,993.78,12
+PROD0114,T-shirt,Clothing,656.75,-13
+PROD0115,Yoga Mat,Sports,1052.76,88
+PROD0116,Jacket,Clothing,703.46,49
+PROD0117,Jeans,Clothing,629.47,56
+PROD0118,Chair,Furniture,398.43,78
+PROD0119,Treadmill,Sports,149.02,18
+PROD0120,Tablet,Electronics,1226.96,7
+PROD0121,Bluetooth Speaker,Electronics,1075.31,82
+PROD0122,Loafers,Footwear,1092.73,32
+PROD0123,Microwave,Home Appliances,746.54,45
+PROD0124,Air Conditioner,Home Appliances,943.88,3
+PROD0125,Smartphone,Electronics,1108.49,11
+PROD0126,Puzzle,Toys,557.14,44
+PROD0127,Lipstick,Beauty,257.19,12
+PROD0128,Dining Table,Furniture,305.39,11
+PROD0129,Basketball,Sports,48.92,15
+PROD0130,Treadmill,Sports,1462.38,15
+PROD0131,Dining Table,Furniture,1440.32,8
+PROD0132,Eyeliner,Beauty,1103.45,70
+PROD0133,Vacuum Cleaner,Home Appliances,943.24,82
+PROD0134,Heels,Footwear,892.93,11
+PROD0135,Dining Table,Furniture,410.24,48
+PROD0136,Loafers,Footwear,513.73,62
+PROD0137,Yoga Mat,Sports,1248.97,48
+PROD0138,Sweater,Clothing,643.71,72
+PROD0139,Smartphone,Electronics,465.62,30
+PROD0140,Camera,Electronics,618.33,11
+PROD0141,Boots,Footwear,1266.92,19
+PROD0142,Football,Sports,730.95,-5
+PROD0143,Eyeliner,Beauty,1277.36,67
+PROD0144,Eyeliner,Beauty,58.52,-15
+PROD0145,Board Game,Toys,1401.57,43
+PROD0146,Shorts,Clothing,382.48,-19
+PROD0147,Football,Sports,197.62,28
+PROD0148,Air Conditioner,Home Appliances,555.93,24
+PROD0149,Bluetooth Speaker,Electronics,696.08,-2
+PROD0150,Laptop,Electronics,1438.39,17
+PROD0151,Heels,Footwear,1303.77,3
+PROD0152,Washing Machine,Home Appliances,1148.30,2
+PROD0153,Sofa,Furniture,311.57,59
+PROD0154,Boots,Footwear,168.46,22
+PROD0155,Dining Table,Furniture,1198.28,97
+PROD0156,Shorts,Clothing,610.11,82
+PROD0157,Boots,Footwear,707.98,6
+PROD0158,Chair,Furniture,1270.14,11
+PROD0159,Sneakers,Footwear,458.56,60
+PROD0160,Dining Table,Furniture,463.76,4
+PROD0161,Laptop,Electronics,956.38,-7
+PROD0162,Treadmill,Sports,1226.12,15
+PROD0163,Bluetooth Speaker,Electronics,292.44,-2
+PROD0164,Microwave,Home Appliances,1428.39,5
+PROD0165,T-shirt,Clothing,94.28,26
+PROD0166,Vacuum Cleaner,Home Appliances,222.04,8
+PROD0167,Camera,Electronics,1310.50,41
+PROD0168,Perfume,Beauty,257.41,-8
+PROD0169,Tablet,Electronics,28.30,-13
+PROD0170,Sofa,Furniture,626.80,25
+PROD0171,Sneakers,Footwear,353.40,45
+PROD0172,Refrigerator,Home Appliances,1215.08,69
+PROD0173,Sandals,Footwear,723.88,52
+PROD0174,Yoga Mat,Sports,586.75,4
+PROD0175,Vacuum Cleaner,Home Appliances,515.81,75
+PROD0176,Foundation,Beauty,1247.77,1
+PROD0177,Treadmill,Sports,349.04,83
+PROD0178,Air Conditioner,Home Appliances,196.80,77
+PROD0179,Sandals,Footwear,443.03,66
+PROD0180,Remote Car,Toys,927.09,30
+PROD0181,Washing Machine,Home Appliances,598.08,53
+PROD0182,Action Figure,Toys,840.39,82
+PROD0183,Camera,Electronics,1246.31,-35
+PROD0184,Yoga Mat,Sports,1239.81,8
+PROD0185,Jeans,Clothing,334.68,42
+PROD0186,Laptop,Electronics,975.83,40
+PROD0187,Bed Frame,Furniture,390.20,71
+PROD0188,Chair,Furniture,571.98,66
+PROD0189,Microwave,Home Appliances,1046.12,24
+PROD0190,Air Conditioner,Home Appliances,1313.46,16
+PROD0191,Sweater,Clothing,1191.78,57
+PROD0192,Smartphone,Electronics,287.41,42
+PROD0193,Tablet,Electronics,32.91,75
+PROD0194,Smartwatch,Electronics,985.56,67
+PROD0195,Action Figure,Toys,66.51,27
+PROD0196,Puzzle,Toys,821.84,-1
+PROD0197,Smartphone,Electronics,19.40,85
+PROD0198,Smartphone,Electronics,536.66,40
+PROD0199,Boots,Footwear,1056.19,70
+PROD0200,T-shirt,Clothing,355.83,33
+PROD0201,Treadmill,Sports,700.56,89
+PROD0202,Sandals,Footwear,155.63,18
+PROD0203,T-shirt,Clothing,588.47,-13
+PROD0204,Tennis Racket,Sports,506.26,47
+PROD0205,Sweater,Clothing,956.71,-5
+PROD0206,Microwave,Home Appliances,524.09,87
+PROD0207,Microwave,Home Appliances,421.20,95
+PROD0208,Shampoo,Beauty,654.67,83
+PROD0209,Sandals,Footwear,508.59,3
+PROD0210,Microwave,Home Appliances,1481.51,4
+PROD0211,Foundation,Beauty,651.09,60
+PROD0212,Tablet,Electronics,428.28,67
+PROD0213,Yoga Mat,Sports,467.60,47
+PROD0214,Tennis Racket,Sports,1045.83,-20
+PROD0215,Foundation,Beauty,1457.65,84
+PROD0216,Basketball,Sports,495.94,73
+PROD0217,Doll,Toys,1208.65,-18
+PROD0218,Heels,Footwear,452.79,22
+PROD0219,Bluetooth Speaker,Electronics,934.07,2
+PROD0220,Bluetooth Speaker,Electronics,386.89,16
+PROD0221,Air Conditioner,Home Appliances,688.17,66
+PROD0222,Bed Frame,Furniture,1109.04,56
+PROD0223,Air Conditioner,Home Appliances,709.28,59
+PROD0224,Chair,Furniture,1014.77,12
+PROD0225,Puzzle,Toys,766.59,99
+PROD0226,Foundation,Beauty,1146.61,31
+PROD0227,Dining Table,Furniture,706.60,81
+PROD0228,Basketball,Sports,922.26,6
+PROD0229,Puzzle,Toys,1053.44,59
+PROD0230,Puzzle,Toys,703.52,45
+PROD0231,Perfume,Beauty,491.17,79
+PROD0232,Sweater,Clothing,1135.06,74
+PROD0233,Foundation,Beauty,1116.44,80
+PROD0234,T-shirt,Clothing,510.16,35
+PROD0235,Basketball,Sports,568.17,68
+PROD0236,Tablet,Electronics,163.10,7
+PROD0237,Laptop,Electronics,520.99,20
+PROD0238,Sneakers,Footwear,1056.63,47
+PROD0239,Microwave,Home Appliances,1127.95,80
+PROD0240,Camera,Electronics,982.32,92
+PROD0241,Vacuum Cleaner,Home Appliances,65.42,100
+PROD0242,Action Figure,Toys,265.68,43
+PROD0243,Boots,Footwear,963.61,50
+PROD0244,Bookshelf,Furniture,749.33,53
+PROD0245,Refrigerator,Home Appliances,1123.95,19
+PROD0246,Sandals,Footwear,148.92,84
+PROD0247,Sandals,Footwear,915.92,5
+PROD0248,Smartwatch,Electronics,816.59,51
+PROD0249,Loafers,Footwear,823.82,-3
+PROD0250,Dining Table,Furniture,155.12,29
+PROD0251,Jeans,Clothing,934.25,70
+PROD0252,Eyeliner,Beauty,596.27,27
+PROD0253,Lipstick,Beauty,482.15,5
+PROD0254,T-shirt,Clothing,865.41,31
+PROD0255,Tablet,Electronics,494.81,0
+PROD0256,Laptop,Electronics,212.31,82
+PROD0257,Washing Machine,Home Appliances,49.78,28
+PROD0258,Doll,Toys,1324.06,24
+PROD0259,T-shirt,Clothing,1324.17,12
+PROD0260,Shampoo,Beauty,1329.98,70
+PROD0261,Smartphone,Electronics,323.64,26
+PROD0262,Jacket,Clothing,836.75,89
+PROD0263,Washing Machine,Home Appliances,1110.37,26
+PROD0264,Boots,Footwear,141.94,7
+PROD0265,Perfume,Beauty,382.55,57
+PROD0266,Tennis Racket,Sports,696.40,8
+PROD0267,Bed Frame,Furniture,718.57,36
+PROD0268,Shampoo,Beauty,250.07,37
+PROD0269,Loafers,Footwear,24.90,76
+PROD0270,Perfume,Beauty,993.99,31
+PROD0271,Lipstick,Beauty,1394.54,16
+PROD0272,Remote Car,Toys,1131.95,70
+PROD0273,Tablet,Electronics,426.50,41
+PROD0274,Vacuum Cleaner,Home Appliances,860.26,-16
+PROD0275,Shampoo,Beauty,1090.77,60
+PROD0276,Sneakers,Footwear,1230.54,60
+PROD0277,Sandals,Footwear,1073.66,36
+PROD0278,Tablet,Electronics,331.81,6
+PROD0279,Bluetooth Speaker,Electronics,1344.53,29
+PROD0280,Microwave,Home Appliances,585.79,68
+PROD0281,Football,Sports,869.33,61
+PROD0282,Shorts,Clothing,1197.38,54
+PROD0283,Tablet,Electronics,1235.25,79
+PROD0284,Action Figure,Toys,415.80,52
+PROD0285,Lipstick,Beauty,428.63,52
+PROD0286,Yoga Mat,Sports,1456.03,64
+PROD0287,Refrigerator,Home Appliances,45.10,34
+PROD0288,Boots,Footwear,315.71,81
+PROD0289,Sweater,Clothing,471.95,1
+PROD0290,T-shirt,Clothing,591.75,62
+PROD0291,Tablet,Electronics,885.35,7
+PROD0292,Jeans,Clothing,694.21,78
+PROD0293,Dining Table,Furniture,859.78,14
+PROD0294,Refrigerator,Home Appliances,715.07,93
+PROD0295,Washing Machine,Home Appliances,602.80,71
+PROD0296,Chair,Furniture,646.71,34
+PROD0297,Chair,Furniture,1086.73,10
+PROD0298,Vacuum Cleaner,Home Appliances,920.02,1
+PROD0299,Action Figure,Toys,410.13,34
+PROD0300,Eyeliner,Beauty,241.81,63
+PROD0301,Washing Machine,Home Appliances,1361.30,56
+PROD0302,Vacuum Cleaner,Home Appliances,299.82,6
+PROD0303,Sandals,Footwear,603.18,93
+PROD0304,Yoga Mat,Sports,890.29,44
+PROD0305,Sandals,Footwear,995.14,7
+PROD0306,Basketball,Sports,1185.28,94
+PROD0307,Tablet,Electronics,557.75,81
+PROD0308,Microwave,Home Appliances,588.80,72
+PROD0309,Air Conditioner,Home Appliances,215.42,47
+PROD0310,Foundation,Beauty,1247.08,30
+PROD0311,Remote Car,Toys,71.14,18
+PROD0312,Tennis Racket,Sports,183.70,25
+PROD0313,Eyeliner,Beauty,665.31,25
+PROD0314,Remote Car,Toys,1213.99,67
+PROD0315,Basketball,Sports,660.20,-3
+PROD0316,Remote Car,Toys,496.09,19
+PROD0317,Microwave,Home Appliances,854.66,57
+PROD0318,Washing Machine,Home Appliances,182.50,10
+PROD0319,Jeans,Clothing,349.54,41
+PROD0320,Board Game,Toys,1047.06,50
+PROD0321,Smartwatch,Electronics,1253.64,36
+PROD0322,Sofa,Furniture,209.61,0
+PROD0323,Sweater,Clothing,1272.70,51
+PROD0324,Refrigerator,Home Appliances,209.44,29
+PROD0325,Action Figure,Toys,443.28,23
+PROD0326,Remote Car,Toys,267.42,34
+PROD0327,Basketball,Sports,1288.79,66
+PROD0328,Sneakers,Footwear,1343.53,2
+PROD0329,Remote Car,Toys,1070.54,27
+PROD0330,Board Game,Toys,1287.11,9
+PROD0331,Board Game,Toys,692.93,-1
+PROD0332,Jeans,Clothing,708.97,30
+PROD0333,Bed Frame,Furniture,740.91,-2
+PROD0334,Sneakers,Footwear,674.10,56
+PROD0335,Vacuum Cleaner,Home Appliances,164.27,49
+PROD0336,Sofa,Furniture,1068.30,29
+PROD0337,Foundation,Beauty,292.46,34
+PROD0338,Yoga Mat,Sports,970.90,77
+PROD0339,Laptop,Electronics,599.28,17
+PROD0340,Board Game,Toys,914.49,33
+PROD0341,Smartphone,Electronics,22.31,-12
+PROD0342,Sneakers,Footwear,154.95,57
+PROD0343,Smartphone,Electronics,310.30,38
+PROD0344,Bluetooth Speaker,Electronics,268.32,19
+PROD0345,Sofa,Furniture,808.91,62
+PROD0346,Loafers,Footwear,141.55,21
+PROD0347,Foundation,Beauty,1382.14,11
+PROD0348,Doll,Toys,390.28,51
+PROD0349,Jacket,Clothing,1198.47,58
+PROD0350,Shorts,Clothing,975.29,4
+PROD0351,Camera,Electronics,231.73,84
+PROD0352,Bed Frame,Furniture,10.62,10
+PROD0353,Smartwatch,Electronics,385.13,5
+PROD0354,Shorts,Clothing,1252.98,8
+PROD0355,Sweater,Clothing,1481.87,55
+PROD0356,Shampoo,Beauty,1056.01,46
+PROD0357,Boots,Footwear,204.83,4
+PROD0358,Boots,Footwear,794.87,18
+PROD0359,Vacuum Cleaner,Home Appliances,916.68,15
+PROD0360,T-shirt,Clothing,574.36,81
+PROD0361,Board Game,Toys,1001.82,41
+PROD0362,Refrigerator,Home Appliances,561.96,79
+PROD0363,Vacuum Cleaner,Home Appliances,665.30,39
+PROD0364,Doll,Toys,553.99,27
+PROD0365,Basketball,Sports,1089.06,78
+PROD0366,T-shirt,Clothing,1423.27,20
+PROD0367,Doll,Toys,637.77,94
+PROD0368,Shorts,Clothing,1100.60,1
+PROD0369,Dining Table,Furniture,586.32,37
+PROD0370,Puzzle,Toys,1125.09,8
+PROD0371,Smartphone,Electronics,1459.38,39
+PROD0372,Heels,Footwear,1449.47,-42
+PROD0373,Treadmill,Sports,765.20,81
+PROD0374,Laptop,Electronics,679.38,76
+PROD0375,Doll,Toys,241.94,91
+PROD0376,Eyeliner,Beauty,1122.36,24
+PROD0377,Football,Sports,215.17,19
+PROD0378,Foundation,Beauty,482.95,25
+PROD0379,Refrigerator,Home Appliances,1169.24,60
+PROD0380,Smartwatch,Electronics,1192.07,10
+PROD0381,Bluetooth Speaker,Electronics,502.62,56
+PROD0382,Refrigerator,Home Appliances,137.60,5
+PROD0383,Bluetooth Speaker,Electronics,358.70,34
+PROD0384,Refrigerator,Home Appliances,21.16,10
+PROD0385,Lipstick,Beauty,222.04,2
+PROD0386,Vacuum Cleaner,Home Appliances,830.72,62
+PROD0387,Laptop,Electronics,1266.93,4
+PROD0388,Action Figure,Toys,1154.07,68
+PROD0389,Loafers,Footwear,280.75,15
+PROD0390,Smartwatch,Electronics,1439.10,16
+PROD0391,Football,Sports,754.95,-20
+PROD0392,Bed Frame,Furniture,1239.19,63
+PROD0393,Camera,Electronics,637.25,57
+PROD0394,Loafers,Footwear,532.97,59
+PROD0395,Bluetooth Speaker,Electronics,1292.55,73
+PROD0396,Chair,Furniture,1057.66,58
+PROD0397,Microwave,Home Appliances,299.81,41
+PROD0398,Treadmill,Sports,1433.80,28
+PROD0399,Remote Car,Toys,1280.28,46
+PROD0400,9787,iofhf,9000.00,9
+PROD0401,888,bike,9000.00,9
+PROD0402,666,bmw,10000.00,90000
+PROD0403,benz,mercedes s series,2.00,99999
+PROD0404,himalayan,bike,9.00,9000
